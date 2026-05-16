@@ -1,2 +1,5 @@
 # idontknow
-记录一些常见组件工具的操作和文档资料
+
+These are my personal reminder sheets.
+
+For more references, you may consult [quick reference](https://quickref.cn/), which is a useful resource.
